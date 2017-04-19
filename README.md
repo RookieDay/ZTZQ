@@ -1,2 +1,3 @@
-# ZTZQ
-ZTZQ Guide
+## 
+- app.json配置全局
+  app.js 引入全局的函数 变量等 监听小程序初始化
